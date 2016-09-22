@@ -36,3 +36,4 @@ onEvent()方法添加注解：  @Subscribe 然后问题解决，如：
         tv.setText(event);
     }
 ```
+最后直接运行即可看到上面的效果。如果对您有帮助，欢迎star，fork。。。
