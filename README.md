@@ -1,9 +1,9 @@
 # DavidEventBusDemo
 EventBus简单使用实例,学习使用开源库，提高开发效率与速度
 
-作者：程序员小冰，CSDN博客：http://blog.csdn.net/qq_21376985， 
+作者： [程序员小冰](http://blog.csdn.net/qq_21376985)
 
-新浪微博：http://weibo.com/mcxiaobing
+[欢迎点击关注我的微博](http://weibo.com/mcxiaobing)
 
 此实例比较简单，可以教你简单的使用eventbus，效果如下：
 
