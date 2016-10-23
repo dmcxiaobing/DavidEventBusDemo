@@ -5,6 +5,8 @@ EventBus简单使用实例,学习使用开源库，提高开发效率与速度
 
 [欢迎点击关注我的微博](http://weibo.com/mcxiaobing)
 
+[在线QQ咨询](<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2::51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>)
+
 此实例比较简单，可以教你简单的使用eventbus，效果如下：
 
 ![这里写图片描述](http://img.blog.csdn.net/20160905104057953)
